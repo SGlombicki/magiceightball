@@ -8,7 +8,11 @@ text_list = [
 "Yes",
 "No",
 "Maybe",
-"Possible"
+"Possible",
+"Outlook Good",
+"Sure",
+"Impossible",
+"Never"
 ]
 basic.forever(function () {
 	
